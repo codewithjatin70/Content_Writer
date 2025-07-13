@@ -6,6 +6,9 @@ Just enter any topic, and get instant content generated using cutting-edge LLMs.
 > 🔥 Powered by LLaMA3-70B  
 > ⚡ Fast and Reliable via Groq  
 > 💻 Simple CLI Interface
+> 
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Made with Groq](https://img.shields.io/badge/LLM-Groq-ff69b4)
 
 ---
 
